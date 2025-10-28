@@ -1,7 +1,7 @@
  body {
       margin: 0;
       font-family: "Poppins", sans-serif;
-      background-image: url('https://i.imgur.com/FX0w9R8.jpg'); /* 🌿 nền linen nhẹ */
+      background: linear-gradient(135deg, #f9d8ec, #d4e7f9);
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -114,4 +114,5 @@
 
  /* Font online */
     @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Lora&family=Poppins:wght@400;500&display=swap');
+
  
